@@ -2,9 +2,9 @@
 
 - 工程的新建/添加：
 
-> ![image-20250708095049432](pictures\image-20250708095049432.png)
+> ![image-20250708095049432](pictures/image-20250708095049432.png)
 >
-> ![image-20250708095146300](pictures\image-20250708095146300.png)
+> ![image-20250708095146300](pictures/image-20250708095146300.png)
 
 - 文件的新建/添加：
 
@@ -14,7 +14,7 @@
 
 - 常用窗口打开/关闭：
 
-> ![image-20250708095628378](pictures\image-20250708095628378.png)
+> ![image-20250708095628378](pictures/image-20250708095628378.png)
 >
 > View->Panels
 
@@ -22,7 +22,7 @@
 
 > Project->Synchronize Files,勾选下图选项。
 >
-> ![image-20250708095832156](pictures\image-20250708095832156.png)
+> ![image-20250708095832156](pictures/image-20250708095832156.png)
 
 - 搜索引用：
 

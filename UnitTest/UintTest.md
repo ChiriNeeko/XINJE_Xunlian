@@ -10,7 +10,7 @@
 
 - 运行性能：
 
-> ![image-20250709104026824](pictures\image-20250709104026824.png)
+> ![image-20250709104026824](pictures/image-20250709104026824.png)
 >
 > 此处就是该单元的运行性能。
 
@@ -51,7 +51,7 @@
 | DOUBLE_EQ | (a, b)    | double型 a ≈ b  |
 | NEAR      | (a, b, e) | abs(a - b) <= e |
 
-[[C++\] gtest入门教程](https://blog.csdn.net/jkddf9h8xd9j646x798t/article/details/105964161)
+[[C++/] gtest入门教程](https://blog.csdn.net/jkddf9h8xd9j646x798t/article/details/105964161)
 
 - 使用运行测试：
 
